@@ -5,7 +5,7 @@
 - 📫 How to reach me @alexandraoshili@gmail.com
 
 <!---
-Anthonia-alexis/Anthonia-alexis is a highly intelligent creative with a keen interest in creating websites and web applications for top clients across the globe! ✨ special ✨ repository because its `README.md` (this file) 
+Anthonia-alexis/Anthonia-alexis is a highly intelligent creative with a keen interest in creating websites and web applications for top-tier and start-up companies and institutions across the globe! ✨ special ✨ repository because its `README.md` (this file) 
 appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
